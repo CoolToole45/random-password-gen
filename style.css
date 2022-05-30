@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#pass-line {
+    width: 20rem;
+    height: 2rem;
+    background-color: aqua;
+    border: 4px solid;
+}
